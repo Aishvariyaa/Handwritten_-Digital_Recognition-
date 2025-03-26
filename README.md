@@ -1,7 +1,3 @@
-Here’s the **Git-based format** for your **Handwritten Digit Recognition** project using SVM on the MNIST dataset. 🚀  
-
----
-
 ## ✍️ Handwritten Digit Recognition (MNIST)  
 
 ### 📌 Overview  
